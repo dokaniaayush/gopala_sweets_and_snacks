@@ -11,3 +11,36 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.button1 {
+  padding: 5px 8px;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: white;
+  background-color: black;
+  outline: none;
+  border: 1px solid black;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.button1:hover{
+  background-color: black;
+  transform: scale(1.05, 1.05);
+}
+
+.image{
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.navbar{
+  overflow: hidden;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  background-color: white;
+}
