@@ -11,40 +11,45 @@ import Img8 from './img/Thekua.png'
 
 const Main = () => {
     return(
+    <>
         <div style={{textAlign:"center", display:"flex", justifyContent:"space-around", fontSize: "calc(10px + 2vmin)", paddingTop: "20px", padding: "10px", marginTop:"120px"}}>
-            <div style={{display:"flex", flexDirection:"column"}}>
-            <Images link={Img1}/>
-            <Images link={Img2}/>
-            <Images link={Img3}/>
-            <Images link={Img4}/>
+            <div style={{display:"flex", flexDirection:"column", width:"30%", alignItems:"center"}}>
+                <Images link={Img1}/>
+                <Images link={Img2}/>
+                <Images link={Img3}/>
+                <Images link={Img4}/>
             </div>
         
-            <div style={{margin:"5px"}}>
-            <h3> Snacks </h3>
-            <ul style={{listStyleType:"disc", textAlign:"left"}}>
-                <li>Suhali</li>
-                <li>Aatha Suhali</li>
-                <li>Mathi</li>
-                <li>Nimki</li>
-                <li>Bhujiya</li>
-            </ul>
+            <div style={{margin:"5px", width:"40%", alignItems:"center"}}>
+                <h3> Snacks </h3>
+                <ul style={{textAlign:"left"}}>
+                    <li>Suhali</li>
+                    <li>Aatha Suhali</li>
+                    <li>Mathi</li>
+                    <li>Nimki</li>
+                    <li>Bhujiya</li>
+                </ul>
 
-            <h3> Sweets </h3>
-            <ul style={{listStyleType:"disc", textAlign:"left"}}>
-                <li>Petha</li>
-                <li>Gondh ka Ladoo</li>
-                <li>Mithi Suhali</li>
-                <li>Gojiya</li>
-            </ul>
+                <h3> Sweets </h3>
+                <ul style={{textAlign:"left"}}>
+                    <li>Petha</li>
+                    <li>Gondh ka Ladoo</li>
+                    <li>Mithi Suhali</li>
+                    <li>Gojiya</li>
+                </ul>
             </div>
             
-            <div style={{display:"flex", flexDirection:"column"}}>
-            <Images link={Img5}/>
-            <Images link={Img6}/>
-            <Images link={Img7}/>
-            <Images link={Img8}/>
+            <div style={{display:"flex", flexDirection:"column", width:"30%", alignItems:"center"}}>
+                <Images link={Img5}/>
+                <Images link={Img6}/>
+                <Images link={Img7}/>
+                <Images link={Img8}/>
             </div>
-      </div>
+        </div>
+        <div style={{textAlign:"center", height:"50px"}}> 
+            <button className="button1"> Order Here </button> 
+        </div>
+    </>
     )
 }
 
