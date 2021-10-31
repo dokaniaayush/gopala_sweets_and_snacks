@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/gopala_sweets_and_snacks_app/static/css/main.ce02b00d.chunk.css",
-    "main.js": "/gopala_sweets_and_snacks_app/static/js/main.7f01cb67.chunk.js",
-    "main.js.map": "/gopala_sweets_and_snacks_app/static/js/main.7f01cb67.chunk.js.map",
-    "runtime-main.js": "/gopala_sweets_and_snacks_app/static/js/runtime-main.53fca004.js",
-    "runtime-main.js.map": "/gopala_sweets_and_snacks_app/static/js/runtime-main.53fca004.js.map",
-    "static/js/2.b2e55322.chunk.js": "/gopala_sweets_and_snacks_app/static/js/2.b2e55322.chunk.js",
-    "static/js/2.b2e55322.chunk.js.map": "/gopala_sweets_and_snacks_app/static/js/2.b2e55322.chunk.js.map",
-    "static/js/3.25f146ac.chunk.js": "/gopala_sweets_and_snacks_app/static/js/3.25f146ac.chunk.js",
-    "static/js/3.25f146ac.chunk.js.map": "/gopala_sweets_and_snacks_app/static/js/3.25f146ac.chunk.js.map",
+    "main.css": "/gopala_sweets_and_snacks_app/static/css/main.06b2bdee.chunk.css",
+    "main.js": "/gopala_sweets_and_snacks_app/static/js/main.572a7f04.chunk.js",
+    "main.js.map": "/gopala_sweets_and_snacks_app/static/js/main.572a7f04.chunk.js.map",
+    "runtime-main.js": "/gopala_sweets_and_snacks_app/static/js/runtime-main.cd634d81.js",
+    "runtime-main.js.map": "/gopala_sweets_and_snacks_app/static/js/runtime-main.cd634d81.js.map",
+    "static/js/2.c87c70d2.chunk.js": "/gopala_sweets_and_snacks_app/static/js/2.c87c70d2.chunk.js",
+    "static/js/2.c87c70d2.chunk.js.map": "/gopala_sweets_and_snacks_app/static/js/2.c87c70d2.chunk.js.map",
+    "static/js/3.e59bf842.chunk.js": "/gopala_sweets_and_snacks_app/static/js/3.e59bf842.chunk.js",
+    "static/js/3.e59bf842.chunk.js.map": "/gopala_sweets_and_snacks_app/static/js/3.e59bf842.chunk.js.map",
     "index.html": "/gopala_sweets_and_snacks_app/index.html",
-    "static/css/main.ce02b00d.chunk.css.map": "/gopala_sweets_and_snacks_app/static/css/main.ce02b00d.chunk.css.map",
-    "static/js/2.b2e55322.chunk.js.LICENSE.txt": "/gopala_sweets_and_snacks_app/static/js/2.b2e55322.chunk.js.LICENSE.txt",
+    "static/css/main.06b2bdee.chunk.css.map": "/gopala_sweets_and_snacks_app/static/css/main.06b2bdee.chunk.css.map",
+    "static/js/2.c87c70d2.chunk.js.LICENSE.txt": "/gopala_sweets_and_snacks_app/static/js/2.c87c70d2.chunk.js.LICENSE.txt",
     "static/media/Thekua.82540276.png": "/gopala_sweets_and_snacks_app/static/media/Thekua.82540276.png",
     "static/media/aatha_suhali.ec3e0ba0.jpg": "/gopala_sweets_and_snacks_app/static/media/aatha_suhali.ec3e0ba0.jpg",
     "static/media/gojiya.f281e261.jpg": "/gopala_sweets_and_snacks_app/static/media/gojiya.f281e261.jpg",
@@ -20,9 +20,9 @@
     "static/media/papdi.56ebcd32.jpg": "/gopala_sweets_and_snacks_app/static/media/papdi.56ebcd32.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.53fca004.js",
-    "static/js/2.b2e55322.chunk.js",
-    "static/css/main.ce02b00d.chunk.css",
-    "static/js/main.7f01cb67.chunk.js"
+    "static/js/runtime-main.cd634d81.js",
+    "static/js/2.c87c70d2.chunk.js",
+    "static/css/main.06b2bdee.chunk.css",
+    "static/js/main.572a7f04.chunk.js"
   ]
 }
