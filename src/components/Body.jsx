@@ -5,16 +5,17 @@ import '../index'
 
 const Body = () => {
     return (
-        <div style={{marginTop: "80px",  justifyContent: "space-around"}}>
-        <div>
-            {Data.map((data) => (
-                <Card 
-                    key = {data.id}
-                    imgscr = {data.imgscr}
-                    name = {data.name}
-                    price = {data.price}
-                />
-            ))}</div>
+        <div className="top">
+            <div>
+                {Data.map((data) => (
+                    <Card 
+                        key = {data.id}
+                        imgscr = {data.imgscr}
+                        name = {data.name}
+                        price = {data.price}
+                    />
+                ))}
+            </div>
         </div>
     )
 }
