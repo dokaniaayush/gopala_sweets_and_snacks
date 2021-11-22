@@ -1,8 +1,13 @@
-import React from "react";
+import React, { useState } from "react";
+import OrderCard from "./OrderCard";
+import { selectedItem } from "./Data";
 
 const Order = () => {
+
     return(
-        <h1 className="top"> Hello world</h1>
+        <div  className="top">
+            {selectedItem.length};
+        </div>
     )
 }
 

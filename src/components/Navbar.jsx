@@ -10,11 +10,14 @@ const Navbar = () => {
     return(
         <>
             <div className="navbar"> 
-
+                
                 <div className="navbar2">
-                    <img className="navbar_image" src={Gopala}/>
-                    <div style={{margin:"2px"}}> Gopala Sweets & Snacks </div> 
+                    <Link to="/gopala_sweets_and_snacks_app">
+                        <img className="navbar_image" src={Gopala}/> 
+                    </Link>
+                    <div style={{margin:"2px"}}> Gopala Sweets & Snacks </div>
                 </div>
+                
 
                 { isDesktop && 
                     <div>

@@ -58,4 +58,5 @@ const Data = [
     },
 ]
 
-export default Data;
+var selectedItem = [];
+export { Data, selectedItem};

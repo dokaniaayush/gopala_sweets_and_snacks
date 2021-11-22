@@ -1,13 +1,14 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom'
 import '../index'
+import {selectedItem} from './Data'
 
 
-function Card(props) {
+const  Card = (props) => {
     const [buttonValue, setButtonValue] = useState("Add to Cart");
 
     const handleClick = () => {
-        setButtonValue("Added")
+        setButtonValue("Added");
+        selectedItem.push(props.id);
     }
 
     return (
@@ -18,7 +19,7 @@ function Card(props) {
                     <div className= "card__info">
                         <span className="card__title"> {props.name} </span>
                         <h3 className="card__category "> price: {props.price} </h3>
-                        <button className="button1" onClick={handleClick}> {buttonValue} </button>
+                        <button className="button1" onClick={() => handleClick()}> {buttonValue} </button>
                     </div>
                 </div>
             </div>
