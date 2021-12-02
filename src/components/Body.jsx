@@ -10,7 +10,7 @@ const Body = () => {
             <div>
                 {Data.map((data) => (
                     <Card 
-                        key = {data.id}
+                        id = {data.id}
                         imgscr = {data.imgscr}
                         name = {data.name}
                         price = {data.price}

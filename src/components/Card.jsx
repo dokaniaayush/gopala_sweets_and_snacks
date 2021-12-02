@@ -9,6 +9,7 @@ const  Card = (props) => {
     const handleClick = () => {
         setButtonValue("Added");
         selectedItem.push(props.id);
+        console.log(props.id);
     }
 
     return (
