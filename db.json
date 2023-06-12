@@ -1,0 +1,52 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "name": "Gojiya",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/gojiya.jpg?token=GHSAT0AAAAAABP7PTCVH3EUSJDEVY3VASLKYPKOSUA"
+    },
+    {
+      "id": 2,
+      "name": "Aatha Suhali",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/aatha_suhali.jpg?token=GHSAT0AAAAAABP7PTCU4RDDPWYOY6KCK5RIYPKOUDQ"
+    },
+    {
+      "id": 3,
+      "name": "Mathi",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/mathi.jpg?token=GHSAT0AAAAAABP7PTCUHQVMYPS7LZ4TBXOEYPKOUMQ"
+    },
+    {
+      "id": 4,
+      "name": "Nimki",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/nimki.jpg?token=GHSAT0AAAAAABP7PTCU653E3WV63SMMWKAEYPLS46A"
+    },
+    {
+      "id": 5,
+      "name": "Nimki2",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/nimki2.jpg?token=GHSAT0AAAAAABP7PTCVGUITXX4DHV4P7LU4YPLS5AQ"
+    },
+    {
+      "id": 6,
+      "name": "Nimki3",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/nimki3.jpg?token=GHSAT0AAAAAABP7PTCU2QHNJWG5TK7WRDBKYPLS5DA"
+    },
+    {
+      "id": 7,
+      "name": "Papdi",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/papdi.jpg?token=GHSAT0AAAAAABP7PTCV2PP3SX6U5LQUGBLWYPLS5FQ"
+    },
+    {
+      "id": 8,
+      "name": "Thekua",
+      "price": "230",
+      "imgscr": "https://raw.githubusercontent.com/dokaniaayush/gopala_sweets_and_snacks_app/main/src/components/img/Thekua.png?token=GHSAT0AAAAAABP7PTCU3QW3NN3QIYPPJYXOYPLS4RQ"
+    }
+  ]
+}

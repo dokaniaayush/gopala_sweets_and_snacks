@@ -55,8 +55,8 @@ const Data = [
         name: "Thekua",
         price: "230",
         imgscr: Img8
-    },
-]
+    }
+];
 
 var selectedItem = [];
 export { Data, selectedItem};

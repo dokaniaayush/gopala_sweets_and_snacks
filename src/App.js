@@ -1,5 +1,6 @@
 import React from 'react';
 import { QueryClientProvider, QueryClient } from 'react-query';
+import {ReactQueryDevtools} from 'react-query/devtools'
 import './index'
 import Navbar from './components/Navbar';
 import Body from './components/Body';
@@ -30,6 +31,7 @@ function App() {
           </Route>
         </Switch>
       </Router>
+      {/* <ReactQueryDevtools initialIsOpen={false} position='bottom-right' /> */}
     </QueryClientProvider>
   );
 }
